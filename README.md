@@ -1,1 +1,1 @@
-## Simple react tic tac toe game
+#### Simple react tic tac toe game 
