@@ -1,1 +1,1 @@
-#### Simple react tic tac toe game 
+#### Tic-tac-toe game with REACT jS
